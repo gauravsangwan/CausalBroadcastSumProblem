@@ -1,6 +1,7 @@
+import io.jbotsim.core.Node;
 import io.jbotsim.core.Topology;
 import io.jbotsim.ui.JViewer;
-
+import io.jbotsim.core.Node;
 import static io.jbotsim.contrib.algos.Connectivity.createTopology;
 import static io.jbotsim.gen.basic.TopologyLayouts.center;
 public class Main{

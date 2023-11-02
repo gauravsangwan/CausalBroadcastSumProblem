@@ -2,6 +2,7 @@ public class CustomMessage {
     private int counter;
     private int sum;
     private String type;
+    // 3 type read write and ack
 
     public void setCounter(int counter) {
         this.counter = counter;
