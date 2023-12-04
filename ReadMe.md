@@ -63,4 +63,4 @@ This code was developed as part of the Distributed Algorithm course (CSL7920) an
 
 If you have any questions or need further assistance, feel free to reach out to me.
 
-Thank you for reviewing our assignment submission!
+Thank you for reviewing my assignment submission!
